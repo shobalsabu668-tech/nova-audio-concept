@@ -77,7 +77,7 @@ export function ProductDetail({ product, initial }: { product: Product; initial:
               />
             )}
           </div>
-          <div role="group" aria-label="Views" className="mt-3 flex gap-2 overflow-x-auto no-scrollbar">
+          <div role="group" aria-label="Views" className="relative mt-3 flex gap-2 overflow-x-auto no-scrollbar">
             <button
               type="button"
               onClick={() => setView("3d")}

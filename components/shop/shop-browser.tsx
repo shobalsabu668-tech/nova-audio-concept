@@ -106,7 +106,7 @@ export function ShopView({ search }: { search: string }) {
 
       <div className="grid gap-10 lg:grid-cols-[15rem_1fr]">
         <aside aria-label="Filters" className="min-w-0 lg:sticky lg:top-24 lg:self-start">
-          <div className="flex gap-6 overflow-x-auto pb-2 no-scrollbar [mask-image:linear-gradient(90deg,#000_85%,transparent)] lg:flex-col lg:gap-8 lg:overflow-visible lg:[mask-image:none]">
+          <div className="relative flex gap-6 overflow-x-auto pb-2 no-scrollbar [mask-image:linear-gradient(90deg,#000_85%,transparent)] lg:flex-col lg:gap-8 lg:overflow-visible lg:[mask-image:none]">
             {groups.map((g) => (
               <fieldset key={g.key} className="shrink-0">
                 <legend className="t-eyebrow mb-3">{g.label}</legend>
