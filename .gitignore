@@ -37,3 +37,6 @@ next-env.d.ts
 install.log
 
 install.log
+
+.env*
+!.env.example

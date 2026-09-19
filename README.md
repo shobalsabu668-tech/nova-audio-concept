@@ -1,7 +1,9 @@
 # NØVA — audio storefront (concept website)
 
-> **A self-initiated concept by [Shobal Sabu](https://github.com/shobalsabu668-tech).**
+> **A self-initiated concept by [Shobal Sabu](https://shobal-sabu-portfolio.vercel.app).**
 > NØVA is a fictional audio brand. It isn't a real company or client work, and nothing on the site is for sale.
+
+**Live site:** https://nova-audio-concept.vercel.app · **Case study:** https://shobal-sabu-portfolio.vercel.app/work/nova
 
 NØVA is a complete, working storefront for an imaginary speaker brand designed in Bengaluru. Every product is
 modelled in real-time 3D, and every product image on the site is rendered from those same models. There is no photo
